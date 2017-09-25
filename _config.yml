@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Yuvraj Singla
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Full Stack Developer and Aspiring Data Scientist.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: ysingla@cs.umass.edu
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: yuvrajsingla
   instagram:
-  linkedin:
+  linkedin: linkedin.com/in/yuvrajsingla/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:https://cs.umass.edu/~ysingla/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
