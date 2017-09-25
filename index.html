@@ -2,17 +2,9 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+<div class="jumbotron">
+    <div class="row">
+      <div class="col-md-5"><div class="image"><img src="https://github.com/yuvrajsingla/yuvrajsingla.github.io/raw/master/images/Yuvraj.png" alt="Profile Picture" style="width:243px;height:384px;"></div></div>
+      <div class="col-md-7"><div class="image"><p>Welcome to my home-page. I am a Graduate Computer Science student at UMass Amherst. This contains details about my projects, my resume and some fun stuff :D.</p></div></div>
+    </div>
 </div>
