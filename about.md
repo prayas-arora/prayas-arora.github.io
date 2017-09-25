@@ -4,22 +4,19 @@ title: About
 permalink: /about/
 ---
 
-- 2 years applied ML experience at Microsoft Bing! - Tackled interesting Information Retrieval problems including entity extraction, intent mining, and URL clustering on high volume web-scale data. 
+I am a first year Computer Science Masters student at University of Massachusetts Amherst. 
 
-- Pushed 50+ Sub-intent models to production that impacted over 1 million Bing! queries.
+I have 2 years of engineering and applied machine learning experience at Microsoft Bing! where I built infrastructure to process high volume web-scale data. My major contribution was in Subintent Mining where I helped pushed 50+ Sub-intent models to production that impacted over *1* *million* Bing! queries.
 
-- Entrepreneurial, Leadership and other interdisciplinary skills achieved through ThinkBinary Academy.
+I left Microsoft to co-found a small startup based out of Chandigarh, India called *'Think* *Binary* *Academy'*. At the academy, I conceptualized and instructed a specialized algorithms course for final year undergraduate students across North India. While I couldn't achieve all that I had hoped for, I did improve my leadership and management skills in the process.
 
-- ACM ICPC Asia Regional Finalist in 2011, 2012.
-- Runners up in Microsoft STCI Machine Learning Competition 2014. 
+On the lighter side, I enjoy early morning runs, and a movie with a big bucket of popcorns. TV shows I can't get enough of - Friends and Survivor.
 
-- Experienced in agile development methodology.
-- Mentored and took multiple initiatives to help reduce efforts of other team members
-- Profound interest in teaching, algorithm design, and problem solving.
 
 ### More!
 
 Did I mention that I am actively looking for research internships for Summer 2018!?
+
 If your company has some awesome ongoing projects in the field of Information Retrieval / Machine Learning, send me an email.
 
 ### Contact me
