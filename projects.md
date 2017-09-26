@@ -4,8 +4,6 @@ title: projects
 permalink: /projects/
 ---
 
-<div style="font-size: 16px"> 
-
 ## Subintent Mining - Machine Learning, Text Mining, C#, .NET, Perl
 - Worked with a Senior Applied Scientist to implement the infrastructure for discovering the latent intent (Subintent) based on the research paper "Active Objects: Actions for Entity-Centric Search".
 - Mentored two team members and together shipped 53 models to production over 2 years.
@@ -27,5 +25,3 @@ permalink: /projects/
 
 ## Snapandbuy  (2011) - PHP, HTML, CSS, JavaScript, MySQL
 - Developed from scratch a C2C e-commerce ‘reverse online shopping’ portal.
-
-</div>
