@@ -11,6 +11,8 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>   
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -46,7 +48,57 @@
         </footer>
       </div>
     </div>
+ 
+      <div class="popup" data-popup="popup-1">
+          <div class="popup-inner">
+              <h2 id="popup-head"></h2>
+              <img id="popup-img" src=""></img>
+              <a class="popup-close" data-popup-close="popup-1" href="#">x</a>
+          </div>
+      </div>
+ 
 
     {% include analytics.html %}
+
+    <script type="text/javascript">
+      var isClicked=false;
+
+      $(function() {
+
+          $("img.popitup").each(function(){
+              $(this).css("cursor","pointer");
+          });
+
+          //----- OPEN
+          // $("body").delegate("img.popitup","click", function(e) {
+
+          $('img.popitup').on('click', function(e)  {
+              $("#popup-head").text($(this).attr("alt"));
+              $("#popup-img").attr("src", $(this).attr("src"));
+              $('[data-popup="popup-1"]').fadeIn(350);
+              e.preventDefault();
+          });
+       
+          //----- CLOSE
+          $('[data-popup-close]').on('click', function(e)  {
+              $('[data-popup="popup-1"]').fadeOut(350,function() {
+                isClicked = false;
+              });
+              e.preventDefault();
+          });
+
+          $('.popup').on('click', function(e)  {
+            if(isClicked == false){
+                isClicked = true;
+              $('[data-popup-close]').click();  
+            }
+          });
+
+      });
+
+    </script>
+
   </body>
+
+
 </html>

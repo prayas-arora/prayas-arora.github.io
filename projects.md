@@ -4,24 +4,63 @@ title: projects
 permalink: /projects/
 ---
 
-## Subintent Mining - Machine Learning, Text Mining, C#, .NET, Perl
-- Worked with a Senior Applied Scientist to implement the infrastructure for discovering the latent intent (Subintent) based on the research paper "Active Objects: Actions for Entity-Centric Search".
-- Mentored two team members and together shipped 53 models to production over 2 years.
-- Introduced temporal features into the existing EM algorithm, which improved the overall precision from 91% to 93% with no loss in recall. Presented poster at Microsoft ML conference 2014 for the same.
-- Performed topic modeling over Wikipedia articles to semi-automate Subintent model selection process for popular entities, saving over 20 hours of manual work for each new Subintent model trained.
+This page includes personal projects or work I did as a freelancer for various clients. Most of these were completed in collboration with my brother. Click on the images to view the screenshots of the projects. Titles and some information has been blackened to protect the client/self.
 
-## URL-Action Clustering - Data Mining, C#, .NET, JQuery 
-- As an initiative, I explored URL clustering based on user intended action. This went on to become part of our work charter and was used in production by Cortana to mine authoritative websites for user tasks.
+I have skipped my work related projects, you can find those in my [resume](https://goo.gl/V1JfgP). 
 
-## Sub-intent metrics and evaluation platform - Crowd sourcing, .NET
-- Responsible for the measurement strategy for Subintent models
-- Supervised creation of crowd sourcing app and infrastructure to measure models on identified matrices.
 
-## Sub- Data Visualization Layer - Data Mining and Visualization, JQuery, CSS
-- Mined data (Queries, User click data etc.) and used compelling visualization elements to generate useful insights e.g. overlapping across classifiers, potential false negatives, unidentified entities. 
+## Online Judge - Laravel, Vagrant, PHP, JS, RESTful API
+Personal project, a traditional online judge with backend system to easily add questions, solutions, explanations and test cases. 
+Follows all the best practices of Laravel 5.2, including middlewares for Authentication, Role control etc. 
 
-## Drugs (Medicine) Classifier - Machine Learning
-- Individually pushed a micro-classifier model to production with a precision of 92% and a recall of 91%.
+<div style="text-align:center">
+    <img src="/images/CodePrep1.png" alt="User Section: List of Problems" class="popitup">
+    <img src="/images/CodePrep2.png" alt="User Section: Problem Screen" class="popitup">
+    <img src="/images/CodePrep3.png" alt="User Section: Submission Screen" class="popitup">
+    <img src="/images/CodePrep4.png" alt="Admin Section: Problem Dashboard" class="popitup">
+    <img src="/images/CodePrep5.png" alt="Admin Section: Problem Edit Screen" class="popitup">
+    <img src="/images/CodePrep6.png" alt="Admin Section: User Permission Screen" class="popitup">
+</div>
 
-## Snapandbuy  (2011) - PHP, HTML, CSS, JavaScript, MySQL
-- Developed from scratch a C2C e-commerce ‘reverse online shopping’ portal.
+## ThinkBinary - Wordpress
+Single Page Website for a co-founded computer academy (details in resume).  Full customized using Avada theme and a lot of custom jquery code. The site is full of interative modals and base theme code modifications to achieve desired results.
+<div style="text-align:center">
+    <img src="/images/thinkbinary.png" alt="ThinkBinary Academy" class="popitup">
+</div>
+
+
+## Twitter Link Scraper - Python
+A small script written in python to fetch links of specific domain from latest tweets. This script was created for educational purposes at a two hour MLIndia workshop that I delivered. As an example, we fetch all links that belong to domain "sarahah.com" from latest tweets.
+
+<div style="text-align:center">
+    <a href="https://github.com/yuvrajsingla/twitter-get-links">View Github Repository</a>
+</div>
+
+
+## SnapAndBuy - PHP, JS, CSS, HTML, PSD-to-HTML
+Ecommerce Development mysql, jquery, css, html, php
+Built the complete custom e-commerce website using jQuery, css,html, PHP and MySQL.
+
+<div style="text-align:center">
+    <img src="/images/snapandbuy.png" alt="Snap and Buy - Ecommerce Website" class="popitup">
+</div>
+
+
+{% comment %} 
+## Code Learn - Laravel, Vagrant, PHP, JS, RESTful API
+The main aim of the website is to teach programming languages to the wide audience - interactively. It gave user a sandboxed environment to run their code and see the output interactively. Other functionality included taking quizzes and exams. Since the client's design was quite complex, a lot of effort was spent in optimizing the pages for faster image loading and relying on CSS for most of the effects.
+
+<div style="text-align:center">
+    <img src="/images/code_learn.png" alt="Code learn" class="popitup">
+</div>
+
+
+## Social Media Branding - PHP, JS, CSS, HTML
+A social media branding company's single page website. The goal was to make it visually appealing and use different JS effects to gain attention of the visitors. 
+Completed the whole project in 15 days using HTML, CSS, JS and PHP. We built everything from scratch and learned on the job.
+
+
+<div style="text-align:center">
+    <img src="/images/socialmediabranding.png" alt="Social Media Branding" class="popitup">
+</div>
+{% endcomment %}
