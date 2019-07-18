@@ -19,14 +19,14 @@ avatar:
 footer-links:
   dribbble:
   email: arora.prayas@gmail.com
-  facebook: https://www.facebook.com/arora.prayas
+  facebook: arora.prayas
   flickr: 
-  github: https://github.com/prayas-arora
+  github: prayas-arora
   instagram:
-  linkedin: https://www.linkedin.com/in/prayas-arora-335449143/
+  linkedin: prayas-arora-335449143/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/I_am_Prayas
+  twitter: I_am_Prayas
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -39,7 +39,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Your website URL
 # Used for Sitemap.xml and your RSS feed
 url: https://prayas-arora.github.io/
 
