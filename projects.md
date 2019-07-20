@@ -8,7 +8,7 @@ I have skipped my work related projects, you can find those in my [resume](https
 
 ### The Society Fair
 
-A website for events of societies under CSED, TIET along with attendance, details and media for each event. Also, an interface for students to contact society admins. Link: [sf.thapar.edu](http://appforms.thapar.edu/sf/)
+A website for events of societies under CSED, TIET along with attendance, details and media for each event. Also, an interface for students to contact society admins.
 <div style="text-align:center">
     <img src="/SocietyFair/Home.PNG" rel="Society Fair" alt="User Section: Home" class="popitup">
     <img src="/SocietyFair/IEEE.PNG" rel="Society Fair" alt="User Section: Society View" class="popitup">
@@ -25,11 +25,15 @@ A website for events of societies under CSED, TIET along with attendance, detail
     <img src="/SocietyFair/Contact.PNG" rel="Society Fair" alt="User/Admin Section: Contact" class="popitup">
 </div>
 
+<div style="text-align:center">
+    <a href="http://appforms.thapar.edu/sf/">sf.thapar.edu</a>
+</div>
+
 ### Detection of Atrial Fibrillation of heart from a Single Lead ECG recording
 The goal of this project was to implement a deep-learning algorithm that classifies electrocardiogram (ECG) recordings from a single-channel handheld ECG device into four distinct categories: normal sinus rhythm (N), atrial fibrillation (A), other rhythm (O), or too noisy to be classified (~). This model was guided by the paper [Convolutional Recurrent Neural Networks for Electrocardiogram Classification](https://arxiv.org/abs/1710.06122) by Zihlmann et al. which was published following the authors' contribution to the [2017 PhysioNet/Computing in Cardiology (CinC) Challenge](https://physionet.org/challenge/2017/). I followed [Andreas Werdich's](https://github.com/awerdich) implementation of the above paper. I improved the results of this model by penalizing weights that apply to higher frequency classes inorder to balance all the classes and reduce prominent peaks in validation accuracy.
 
 ### Fallingrain.com data scraper
-A web scraper written in python that scrapes [fallingrain.com](http://www.fallingrain.com/world/index.html) and dumps a CSV file containing State, City, Latitude, Longitude, Elevation and Estimated Population for every place in India.
+A web scraper written in python that scrapes [fallingrain.com](http://www.fallingrain.com/world/IN/index.html) and dumps a CSV file containing State, City, Latitude, Longitude, Elevation and Estimated Population for every place in India.
 
 <div style="text-align:center">
     <a href="https://github.com/prayas-arora/web-scraper-fallingrain">View Github Repository</a>
