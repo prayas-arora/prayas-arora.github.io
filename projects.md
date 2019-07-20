@@ -26,7 +26,7 @@ A website for events of societies under CSED, TIET along with attendance, detail
 </div>
 
 <div style="text-align:center">
-    <a href="http://appforms.thapar.edu/sf/">sf.thapar.edu</a>
+    <a href="http://appforms.thapar.edu/sf/">Visit website: sf.thapar.edu</a>
 </div>
 
 ### Detection of Atrial Fibrillation of heart from a Single Lead ECG recording
