@@ -11,7 +11,7 @@ I have skipped my work related projects, you can find those in my [resume](https
 
 A website for events of societies under CSED, TIET along with attendance, details and media for each event. Also, an interface for students to contact society admins. Link: [sf.thapar.edu](http://appforms.thapar.edu/sf/)
 <div style="text-align:center">
-    <img src="https://github.com/prayas-arora/prayas-arora.github.io/raw/master/SocietyFair/Home.PNG" alt="User Section: Home" class="popitup">
+    <img src="/SocietyFair/Home.PNG" alt="User Section: Home" class="popitup">
     <img src="https://github.com/prayas-arora/prayas-arora.github.io/raw/master/SocietyFair/IEEE.PNG" alt="User Section: Society View" class="popitup">
     <img src="https://github.com/prayas-arora/prayas-arora.github.io/raw/master/SocietyFair/IEEE_2.PNG" alt="User Section: Events_View" class="popitup">
     <img src="https://github.com/prayas-arora/prayas-arora.github.io/raw/master/SocietyFair/IEEE_open_event.PNG" alt="User Section: Open Event" class="popitup">
