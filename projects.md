@@ -10,19 +10,19 @@ I have skipped my work related projects, you can find those in my [resume](https
 
 A website for events of societies under CSED, TIET along with attendance, details and media for each event. Also, an interface for students to contact society admins. Link: [sf.thapar.edu](http://appforms.thapar.edu/sf/)
 <div style="text-align:center">
-    <a href="/SocietyFair/Home.PNG" rel="Society Fair" alt="User Section: Home"><b>1</b></a>
-    <a href="/SocietyFair/IEEE.PNG" rel="Society Fair" alt="User Section: Society View">1</a>
-    <a href="/SocietyFair/IEEE_2.PNG" rel="Society Fair" alt="User Section: Events_View">1</a>
-    <a href="/SocietyFair/IEEE_open_event.PNG" rel="Society Fair" alt="User Section: Open Event">1</a>
-    <a href="/SocietyFair/IEEE_POSTER.PNG" rel="Society Fair" alt="User Section: Poster View">4</a>
-    <a href="/SocietyFair/Event_attendance.PNG" rel="Society Fair" alt="User Section: Event attendance">5</a>
-    <a href="/SocietyFair/Event_attendance_1.PNG" rel="Society Fair" alt="User Section: Event attendance(2)">6</a>
-    <a href="/SocietyFair/Event_Images.PNG" rel="Society Fair" alt="User Section: Event Images">7</a>
-    <a href="/SocietyFair/Coordinator_Login.PNG" rel="Society Fair" alt="Admin Section: Coordinator Login">8</a>
-    <a href="/SocietyFair/Coordinator_Home_Page.PNG" rel="Society Fair" alt="Admin Section: Problem Dashboard">9</a>
-    <a href="/SocietyFair/Adding_new_event.PNG" rel="Society Fair" alt="Admin Section: Adding new event">10</a>
-    <a href="/SocietyFair/New_event_2.PNG" rel="Society Fair" alt="Admin Section: Adding new event(2)">11</a>
-    <a href="/SocietyFair/Contact.PNG" rel="Society Fair" alt="User/Admin Section: Contact">12</a>
+    <img src="/SocietyFair/Home.PNG" rel="Society Fair" alt="User Section: Home" class="popitup">
+    <img src="/SocietyFair/IEEE.PNG" rel="Society Fair" alt="User Section: Society View" class="popitup">
+    <img src="/SocietyFair/IEEE_2.PNG" rel="Society Fair" alt="User Section: Events_View" class="popitup">
+    <img src="/SocietyFair/IEEE_open_event.PNG" rel="Society Fair" alt="User Section: Open Event" class="popitup">
+    <img src="/SocietyFair/IEEE_POSTER.PNG" rel="Society Fair" alt="User Section: Poster View" class="popitup">
+    <img src="/SocietyFair/Event_attendance.PNG" rel="Society Fair" alt="User Section: Event attendance" class="popitup">
+    <img src="/SocietyFair/Event_attendance_1.PNG" rel="Society Fair" alt="User Section: Event attendance(2)" class="popitup">
+    <img src="/SocietyFair/Event_Images.PNG" rel="Society Fair" alt="User Section: Event Images" class="popitup">
+    <img src="/SocietyFair/Coordinator_Login.PNG" rel="Society Fair" alt="Admin Section: Coordinator Login" class="popitup">
+    <img src="/SocietyFair/Coordinator_Home_Page.PNG" rel="Society Fair" alt="Admin Section: Problem Dashboard" class="popitup">
+    <img src="/SocietyFair/Adding_new_event.PNG" rel="Society Fair" alt="Admin Section: Adding new event" class="popitup">
+    <img src="/SocietyFair/New_event_2.PNG" rel="Society Fair" alt="Admin Section: Adding new event(2)" class="popitup">
+    <img src="/SocietyFair/Contact.PNG" rel="Society Fair" alt="User/Admin Section: Contact" class="popitup">
 </div>
 
 ### Contact me
