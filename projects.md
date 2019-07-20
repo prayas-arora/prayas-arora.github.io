@@ -16,7 +16,7 @@ A website for events of societies under CSED, TIET along with attendance, detail
     <img src="/SocietyFair/IEEE_open_event.PNG" rel="Society Fair" alt="User Section: Open Event" class="popitup">
     <img src="/SocietyFair/IEEE_POSTER.PNG" rel="Society Fair" alt="User Section: Poster View" class="popitup">
     <img src="/SocietyFair/Event_attendance.PNG" rel="Society Fair" alt="User Section: Event attendance" class="popitup">
-    <img src="/SocietyFair/Event_attendance_1.PNG" rel="Society Fair" alt="User Section: Event attendance(2)" class="popitup">
+    <img src="/SocietyFair/Event_attendance_1.PNG" rel="Society Fair" alt="User Section: Event attendance_2" class="popitup">
     <img src="/SocietyFair/Event_Images.PNG" rel="Society Fair" alt="User Section: Event Images" class="popitup">
     <img src="/SocietyFair/Coordinator_Login.PNG" rel="Society Fair" alt="Admin Section: Coordinator Login" class="popitup">
     <img src="/SocietyFair/Coordinator_Home_Page.PNG" rel="Society Fair" alt="Admin Section: Problem Dashboard" class="popitup">
