@@ -28,6 +28,15 @@ A website for events of societies under CSED, TIET along with attendance, detail
 ### Detection of Atrial Fibrillation of heart from a Single Lead ECG recording
 The goal of this project was to implement a deep-learning algorithm that classifies electrocardiogram (ECG) recordings from a single-channel handheld ECG device into four distinct categories: normal sinus rhythm (N), atrial fibrillation (A), other rhythm (O), or too noisy to be classified (~). This model was guided by the paper [Convolutional Recurrent Neural Networks for Electrocardiogram Classification](https://arxiv.org/abs/1710.06122) by Zihlmann et al. which was published following the authors' contribution to the [2017 PhysioNet/Computing in Cardiology (CinC) Challenge](https://physionet.org/challenge/2017/). I followed [Andreas Werdich's](https://github.com/awerdich) implementation of the above paper. I improved the results of this model by penalizing weights that apply to higher frequency classes inorder to balance all the classes and reduce prominent peaks in validation accuracy.
 
-### Contact me
+### Fallingrain.com data scraper
+A web scraper written in python that scrapes [fallingrain.com](http://www.fallingrain.com/world/index.html) and dumps a CSV file containing State, City, Latitude, Longitude, Elevation and Estimated Population for every place in India.
 
-[arora.prayas@gmail.com](mailto:arora.prayas@gmail.com)
+<div style="text-align:center">
+    <a href="https://github.com/prayas-arora/web-scraper-fallingrain">View Github Repository</a>
+</div>
+
+### User Attendance & Activity Monitoring System
+A website that monitors a visitor’s activity, prints exit slips for day scholars and links this data with student IDs. This website is currently live in [Nava Nalanda Central Library, TIET](http://library.thapar.edu/).
+
+### Smart Car Parking System
+Focused on making the process of finding a parking spot, a breeze. An array of sensors to detect the car, a machine learning algorithm for finding an optimal parking slot in real time, Google Maps API integration and Digital Image Processing for car recognition. This project is under development.
