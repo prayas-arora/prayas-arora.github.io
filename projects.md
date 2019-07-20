@@ -3,18 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<!--LIGHTBOX-->
-<link rel="stylesheet" type="text/css" href="lightbox2-master/dist/css/lightbox.css"/>
-<script src="lightbox2-master/dist/js/lightbox.js"></script>
-<script>
-    lightbox.option({
-      'fitImagesInViewport': true,
-      'wrapAround': false,
-      'resizeDuration': 400,
-      'maxWidth': .7*(screen.width),
-      'maxHeight': .7*(screen.height)
-    })
-</script>
 This page includes some of my personal projects.
 I have skipped my work related projects, you can find those in my [resume](https://bit.ly/2Y7xSkF). 
 
