@@ -21,9 +21,12 @@ A website for events of societies under CSED, TIET along with attendance, detail
     <img src="/SocietyFair/Coordinator_Login.PNG" rel="Society Fair" alt="Admin Section: Coordinator Login" class="popitup">
     <img src="/SocietyFair/Coordinator_Home_Page.PNG" rel="Society Fair" alt="Admin Section: Problem Dashboard" class="popitup">
     <img src="/SocietyFair/Adding_new_event.PNG" rel="Society Fair" alt="Admin Section: Adding new event" class="popitup">
-    <img src="/SocietyFair/New_event_2.PNG" rel="Society Fair" alt="Admin Section: Adding new event(2)" class="popitup">
+    <img src="/SocietyFair/New_event_2.PNG" rel="Society Fair" alt="Admin Section: Adding new event_2" class="popitup">
     <img src="/SocietyFair/Contact.PNG" rel="Society Fair" alt="User/Admin Section: Contact" class="popitup">
 </div>
+
+### Detection of Atrial Fibrillation of heart from a Single Lead ECG recording
+The goal of this project was to implement a deep-learning algorithm that classifies electrocardiogram (ECG) recordings from a single-channel handheld ECG device into four distinct categories: normal sinus rhythm (N), atrial fibrillation (A), other rhythm (O), or too noisy to be classified (~). This model was guided by the paper [Convolutional Recurrent Neural Networks for Electrocardiogram Classification](https://arxiv.org/abs/1710.06122) by Zihlmann et al. which was published following the authors' contribution to the [2017 PhysioNet/Computing in Cardiology (CinC) Challenge](https://physionet.org/challenge/2017/). I followed [Andreas Werdich's](https://github.com/awerdich) implementation of the above paper. I improved the results of this model by penalizing weights that apply to higher frequency classes inorder to balance all the classes and reduce prominent peaks in validation accuracy.
 
 ### Contact me
 
