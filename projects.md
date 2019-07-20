@@ -11,7 +11,7 @@ I have skipped my work related projects, you can find those in my [resume](https
 
 A website for events of societies under CSED, TIET along with attendance, details and media for each event. Also, an interface for students to contact society admins. Link: [sf.thapar.edu](http://appforms.thapar.edu/sf/)
 <div style="text-align:center">
-    <a href="/SocietyFair/Home.PNG" data-lightbox="Society Fair" alt="User Section: Home"></a>
+    <a href="/SocietyFair/Home.PNG" data-lightbox="Society Fair" alt="User Section: Home"><b>Screenshots</b></a>
     <a href="/SocietyFair/IEEE.PNG" data-lightbox="Society Fair" alt="User Section: Society View"></a>
     <a href="/SocietyFair/IEEE_2.PNG" data-lightbox="Society Fair" alt="User Section: Events_View"></a>
     <a href="/SocietyFair/IEEE_open_event.PNG" data-lightbox="Society Fair" alt="User Section: Open Event"></a>
