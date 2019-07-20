@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 This page includes some of my personal projects.
-I have skipped my work related projects, you can find those in my [resume](https://bit.ly/2Y7xSkF). 
+I have skipped my work related projects, you can find those in my [resume](https://bit.ly/2M3aLBw). 
 
 ### The Society Fair
 
