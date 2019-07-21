@@ -1,1 +1,1 @@
-### Hosting my webiste using Jekyll-Now!
+### Hosting my website using Jekyll-Now!
